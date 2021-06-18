@@ -21,7 +21,7 @@ Authentication details needed for Mariadb and Oracle connections.
     ORACLE_SID= orclcdb [ name of a specific database instance ]
     ORACLE_PID= orclpdb1 [ name of a pluggable database created using sysdba ]  
     ORACLE_USER= user 
-    ORACLE_U=PWD= password
+    ORACLE_PWD= password
 ```
 #### Mariadb
 ```
