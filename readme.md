@@ -6,10 +6,11 @@ The migration process only limited to:
 - Only one schema can be converted.
 
 ## Requirements for the app
+run the following command.
 
-- Pip for installing [cx_Oracle](https://oracle.github.io/python-cx_Oracle/) and [mariadb](https://mariadb.com/resources/blog/how-to-connect-python-programs-to-mariadb/)
-- [Oracle instant client](https://www.oracle.com/database/technologies/instant-client/downloads.html)
-- MariaDB and Oracle database
+```
+pip install -r requirements.txt
+```
 
 ## Step 0: Export Environment Variables
 Authentication details needed for Mariadb and Oracle connections.  
