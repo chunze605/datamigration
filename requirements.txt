@@ -1,0 +1,5 @@
+
+click==8.0.1
+colorama==0.4.4
+cx-Oracle==8.2.1
+mariadb==1.0.7
